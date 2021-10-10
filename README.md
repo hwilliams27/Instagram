@@ -25,4 +25,4 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/8LVVcS8.gif)
 ![](https://i.imgur.com/z9XBgz2.gif)
-![](https://i.imgur.com/PnrFxo5.gif)
+
