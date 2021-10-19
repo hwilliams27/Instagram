@@ -21,6 +21,7 @@
 		D0CE7EB8270B70D600ED1B76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0CE7EB6270B70D600ED1B76 /* LaunchScreen.storyboard */; };
 		D0CE7EC3270B70D700ED1B76 /* InstagramTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CE7EC2270B70D700ED1B76 /* InstagramTests.swift */; };
 		D0CE7ECE270B70D700ED1B76 /* InstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CE7ECD270B70D700ED1B76 /* InstagramUITests.swift */; };
+		D0EA796A271E472100C5D4AE /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0EA7969271E472100C5D4AE /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		D0CE7EC9270B70D700ED1B76 /* InstagramUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InstagramUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0CE7ECD270B70D700ED1B76 /* InstagramUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramUITests.swift; sourceTree = "<group>"; };
 		D0CE7ECF270B70D700ED1B76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0EA7969271E472100C5D4AE /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		F44C628098A751FF3778EDC6 /* Pods-Instagram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Instagram.debug.xcconfig"; path = "Target Support Files/Pods-Instagram/Pods-Instagram.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -155,6 +157,7 @@
 				D05B472627134B6E00439E93 /* FeedViewController.swift */,
 				D05B47282713522500439E93 /* CameraViewController.swift */,
 				D05B472A27135BCB00439E93 /* PostCell.swift */,
+				D0EA7969271E472100C5D4AE /* CommentCell.swift */,
 			);
 			path = Instagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				D05B472727134B6E00439E93 /* FeedViewController.swift in Sources */,
 				D0CE7EAE270B70D200ED1B76 /* SceneDelegate.swift in Sources */,
 				D05B472B27135BCB00439E93 /* PostCell.swift in Sources */,
+				D0EA796A271E472100C5D4AE /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
